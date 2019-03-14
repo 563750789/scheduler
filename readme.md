@@ -4,10 +4,9 @@ This project is a Conference Track Management system, You can upload a file that
 ## How to run 
 - 1.Import project into eclipse or intellji.
 - 2.Config jdk=1.8.
-- 3.Select Application.java run as java application,then you will see the message in the console.
-- 4.Follow the console message, input a signals file path.
-- 5.Follow the console message, input the msg id.
-- 6.The msg info in the console.
+- 3.The talk that needs to be scheduled into the timetable is written to the talks.txt file in the root directory 
+    according to the specified format.
+- 4.Select Scheduler run as java application,then you will see the message in the console.
 
 ## How to run unit test
 - 1.Import project into eclipse or intellij.
